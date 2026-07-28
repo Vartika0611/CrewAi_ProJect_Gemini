@@ -1,0 +1,12 @@
+[project]
+name = "crewaiprojgemini"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "crewai>=1.15.4",
+    "crewai-tools>=1.15.4",
+    "langchain-google-genai>=4.2.7",
+    "load-dotenv>=0.1.0",
+]
